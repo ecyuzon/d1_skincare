@@ -13,5 +13,8 @@
   "license": "ISC",
   "devDependencies": {
     "sass": "^1.97.3"
+  },
+  "dependencies": {
+    "flickity": "^3.0.0"
   }
 }
